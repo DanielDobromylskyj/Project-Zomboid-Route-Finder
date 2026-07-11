@@ -68,6 +68,7 @@ class PlayerCoords:
                 for axis in data.strip().split(",")
             ]
         except (OSError, ValueError) as e:
+            print("File Error:", e)
             pass
 
         return self.__last

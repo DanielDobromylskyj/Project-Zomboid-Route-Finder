@@ -1,4 +1,5 @@
-('E:\\Python\\PZ route finder\\v4\\build\\main\\PYZ-00.pyz',
+('E:\\Python\\PZ route finder\\v4\\Project Zomboid Route '
+ 'Finder\\build\\main\\PYZ-00.pyz',
  [('OpenGL',
    'C:\\Users\\danie\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\OpenGL\\__init__.py',
    'PYMODULE'),
@@ -2035,16 +2036,20 @@
    'C:\\Users\\danie\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\runpy.py',
    'PYMODULE'),
   ('satnav',
-   'E:\\Python\\PZ route finder\\v4\\satnav\\__init__.py',
+   'E:\\Python\\PZ route finder\\v4\\Project Zomboid Route '
+   'Finder\\satnav\\__init__.py',
    'PYMODULE'),
   ('satnav.path_finder',
-   'E:\\Python\\PZ route finder\\v4\\satnav\\path_finder.py',
+   'E:\\Python\\PZ route finder\\v4\\Project Zomboid Route '
+   'Finder\\satnav\\path_finder.py',
    'PYMODULE'),
   ('satnav.player_grabber',
-   'E:\\Python\\PZ route finder\\v4\\satnav\\player_grabber.py',
+   'E:\\Python\\PZ route finder\\v4\\Project Zomboid Route '
+   'Finder\\satnav\\player_grabber.py',
    'PYMODULE'),
   ('satnav.render_engine',
-   'E:\\Python\\PZ route finder\\v4\\satnav\\render_engine.py',
+   'E:\\Python\\PZ route finder\\v4\\Project Zomboid Route '
+   'Finder\\satnav\\render_engine.py',
    'PYMODULE'),
   ('secrets',
    'C:\\Users\\danie\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\secrets.py',
