@@ -46,9 +46,9 @@ class PlayerCoords:
         cache_path = f"{cache_dir}/coord_path.txt"
 
         if os.path.exists(cache_path):
-            print("Fetch coord path from:", cache_path)
+            print("Fetching coord path from:", cache_path)
             with open(cache_path, "r") as f:
-                return f.read()
+                return f.read().strip("\n").strip()
 
         else:
             path = os.path.join(self.__find_path(), "player_coords.txt")
